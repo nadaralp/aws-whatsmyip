@@ -1,0 +1,10 @@
+{
+  "profile":"default",
+  "stack-name": "whatsmyip-serverless-stack",
+  "region":"us-east-2",
+  "configuration":"Release",
+  "framework":"netcoreapp3.1",
+  "s3-bucket":"nadar-demo-serverless",
+  "template":"template.yml",
+  "template-parameters":""
+}

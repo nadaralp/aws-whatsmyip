@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsMyIp", "WhatsMyIp.csproj", "{32982086-12A1-4F9E-8464-B9DC1ADF34DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StressTest", "StressTest\StressTest.csproj", "{5E1FDC2D-84F1-471B-9342-2EE5AF766772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32982086-12A1-4F9E-8464-B9DC1ADF34DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32982086-12A1-4F9E-8464-B9DC1ADF34DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32982086-12A1-4F9E-8464-B9DC1ADF34DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32982086-12A1-4F9E-8464-B9DC1ADF34DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1FDC2D-84F1-471B-9342-2EE5AF766772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1FDC2D-84F1-471B-9342-2EE5AF766772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1FDC2D-84F1-471B-9342-2EE5AF766772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1FDC2D-84F1-471B-9342-2EE5AF766772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
